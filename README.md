@@ -12,6 +12,17 @@
 
 2026年8月13日，DeepSeek开源了agent框架Harness（MIT协议，发布当天开源）。官方发布稿的主语从头到尾是「它」——它怎么造的、它是什么架构。而这本书把主语换回「我」：我装上之后第一件事干什么、会不会花我的钱、会不会动我硬盘上别的文件。
 
+## 🎬 15秒发布动画
+
+<p align="center">
+  <img src="launch-film.gif" width="80%" alt="DeepSeek Harness橙皮书 · 15秒发布动画" />
+</p>
+
+<p align="center">
+  <em>使用DeepSeek官方VI · 由<a href="https://github.com/alchaincyf/huashu-design">Huashu-Design</a>设计制作</em><br/>
+  <a href="launch-film.mp4">⬇ 下载1080p60 MP4（含音效）</a>
+</p>
+
 ## 下载
 
 | 格式 | 文件 | 大小 |
